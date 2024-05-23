@@ -1,4 +1,3 @@
-# Description
 # Waste Classification - Bio, Non-Bio, E-waste
 This project implements a Convolutional Neural Network (CNN) for classifying waste items into three categories: Biodegradable (Bio), Non-biodegradable (Non-Bio), and Electronic Waste (E-waste).
 
